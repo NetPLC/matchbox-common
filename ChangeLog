@@ -1,5 +1,10 @@
 2004-02-03  Matthew Allum, mallum@handhelds.org
 
+	* matchbox-session:
+	Updated to newer binary names
+
+2004-02-03  Matthew Allum, mallum@handhelds.org
+
 	* Makefile.am:
 	* matchbox-session:
 	Added matchbox-session
