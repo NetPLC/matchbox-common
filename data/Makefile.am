@@ -1,0 +1,1 @@
+SUBDIRS = vfolders-desktop vfolders-pda
