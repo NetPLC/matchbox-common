@@ -119,4 +119,4 @@ Comment[zh_CN]=游戏菜单
 Comment[zh_TW]=遊戲選單
 Icon=mbfolder.png
 Type=Directory
-Match=Graphics
+Match=Game

@@ -1,5 +1,5 @@
 AC_PREREQ(2.53)
-AC_INIT([matchbox-common], 0.9, [mallum@handhelds.org])
+AC_INIT([matchbox-common], 0.9.1, [mallum@handhelds.org])
 AC_CONFIG_SRCDIR([icons/mbadd.xpm])
 
 AM_INIT_AUTOMAKE()
@@ -59,6 +59,7 @@ data/Makefile
 data/vfolders-pda/Makefile
 data/vfolders-desktop/Makefile
 icons/Makefile
+icons/blondie/Makefile
 ])
 
 dnl ==========================================================================

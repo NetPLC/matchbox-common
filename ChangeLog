@@ -1,3 +1,13 @@
+2005-01-12  mallum,,,  <mallum@openedhand.com>
+
+	* configure.ac:
+	Bump up version
+	* data/vfolders-desktop/Games.directory:
+	Fix so games actually end up hear
+	* icons/Makefile.am:
+	* icons/blondie/Makefile.am:
+	Change default folder icons. Keep old blondie ones
+
 2005-01-11  mallum,,,  <mallum@openedhand.com>
 
 	* icons/mbnoapp.xpm:
