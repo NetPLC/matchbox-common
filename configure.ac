@@ -1,6 +1,6 @@
 AC_PREREQ(2.53)
 AC_INIT([matchbox-common], 0.8, [mallum@handhelds.org])
-AC_CONFIG_SRCDIR([dummy])
+AC_CONFIG_SRCDIR([icons/mbadd.xpm])
 
 AM_INIT_AUTOMAKE()
 AM_MAINTAINER_MODE
