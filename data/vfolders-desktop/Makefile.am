@@ -7,6 +7,6 @@ desktop_files = \
 EXTRA_DIST = $(desktop_files)
 
 if !WANT_PDA_FOLDERS
-  vfoldersdir = $(pkgdatadir)/vfolders
+  vfoldersdir = $(datadir)/matchbox/vfolders
   vfolders_DATA = $(desktop_files)
 endif

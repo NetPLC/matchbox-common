@@ -7,7 +7,7 @@ desktop_files = Applications.directory \
                 Root.order             
 
 if WANT_PDA_FOLDERS
-vfoldersdir = $(pkgdatadir)/vfolders
+vfoldersdir = $(datadir)/matchbox/vfolders
 vfolders_DATA = $(desktop_files)
 endif
 
