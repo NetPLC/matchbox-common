@@ -1,0 +1,5 @@
+2004-02-03  Matthew Allum, mallum@handhelds.org
+
+	* Makefile.am:
+	* matchbox-session:
+	Added matchbox-session
