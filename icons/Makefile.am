@@ -1,4 +1,5 @@
 xpms =  mbadd.xpm   mbfolder.xpm      mbnoapp.xpm   mbup.xpm \
+        mbdown.xpm  mbfolderprev.xpm  mbremove.xpm
 
 pngs = mbadd.png   mbfolder.png      mbnoapp.png   mbup.png \
        mbdown.png  mbfolderprev.png  mbremove.png
