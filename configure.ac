@@ -19,9 +19,9 @@ AM_CONFIG_HEADER([config.h])
 dnl ----- Args -------------------------------------------------------------
 
 
-AC_ARG_ENABLE(pda-folders,
+AC_ARG_ENABLE(pda_folders,
   [  --enable-pda-folders  Use PDA style app folder setup ( Rather than Desktop )],
-     enable_pdafolders=$enableval, enable_pdafolders=no)
+     enable_pda_folders=$enableval, enable_pda_folders=no)
 
 ## AC_ARG_ENABLE(small-icons,
 ##  [  --enable-small-icons      Enable small defualt icons.],
@@ -43,7 +43,7 @@ AM_CONDITIONAL(WANT_PNG, test x$found_png = xyes)
 
 ## AM_CONDITIONAL(WANT_SMALL_ICONS, test x$enable_sicons = xyes)  
 
-AM_CONDITIONAL(WANT_PDA_FOLDERS, test x$enable_pdafolders = xyes)  
+AM_CONDITIONAL(WANT_PDA_FOLDERS, test x$enable_pda_folders = xyes)  
 
 ## XXX should we install a .pc file so the panel and desktop can 
 ##     can check common has been installed ?
@@ -70,4 +70,5 @@ echo "
         source code location:   ${srcdir}
 
 	Installing PNGs         ${found_png}
+	Installing PDA Folders  ${enable_pda_folders}
 "
