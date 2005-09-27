@@ -1,3 +1,8 @@
+2005-09-27  mallum,,,  <mallum@openedhand.com>
+
+	* data/vfolders-pda/Settings.directory:
+	Fix bad UTF8 in Settings.directory
+
 2005-01-12  mallum,,,  <mallum@openedhand.com>
 
 	* configure.ac:
