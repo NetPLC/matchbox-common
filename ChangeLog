@@ -1,3 +1,10 @@
+2007-04-13  Matthew Allum  <mallum@openedhand.com>
+
+	* data/vfolders-pda/Makefile.am:
+	* data/vfolders-pda/PIM.directory:
+	* data/vfolders-pda/Root.order:
+	Add PIM directory (for matchbox-desktop-2)
+
 2005-09-27  mallum,,,  <mallum@openedhand.com>
 
 	* data/vfolders-pda/Settings.directory:

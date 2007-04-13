@@ -1,5 +1,6 @@
 desktop_files = Applications.directory \
                 Games.directory        \
+                PIM.directory          \
                 Other.directory        \
                 Root.directory         \
                 Settings.directory     \
