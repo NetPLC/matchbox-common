@@ -1,3 +1,9 @@
+2007-06-06  Ross Burton  <ross@openedhand.com>
+
+	* data/vfolders-pda/PIM.directory:
+	Change PIM directory to match on the Office tag, which is in the
+	specification.
+
 2007-04-13  Matthew Allum  <mallum@openedhand.com>
 
 	* data/vfolders-pda/Makefile.am:
